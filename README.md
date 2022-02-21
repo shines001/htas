@@ -12,5 +12,7 @@
 HTASP（HThorizon Audit Security Protection ）是一款实时具备实时主动防护能力的数据库安全审计类产品。
 
 #### 部署方式
-支持两种部署方式：基于反向代理的串联式部署模式、基于端口镜像的旁路监听部署模式
+支持两种部署方式
 ######  基于反向代理的串联式部署模式
+![image](https://github.com/shines001/htasp/master/img/deploy-proxy.jpg)
+
