@@ -12,7 +12,7 @@
 HTASP（HThorizon Audit Security Protection ）是一款实时具备实时主动防护能力的数据库安全审计类产品。
 
 #### 公司信息
-![北京海天起点技术服务股份有限公司](http://www.hthorizon.com/)
+[北京海天起点技术服务股份有限公司](http://www.hthorizon.com/)
 
 #### 部署方式
 ######  1. 基于反向代理的串联式部署模式
