@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/build-release-brightgreen.svg)  
 ![](https://img.shields.io/badge/version-v3.0-brightgreen.svg)
 
-[北京海天起点技术服务股份有限公司](http://www.hthorizon.com/)
+by [北京海天起点技术服务股份有限公司](http://www.hthorizon.com/)
 
 #### 简介
 HTASP（HThorizon Audit Security Protection ）是一款实时具备实时主动防护能力的数据库安全审计类产品。
