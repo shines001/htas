@@ -4,7 +4,7 @@
 
 # 海天数据库安全审计防护平台
 
-![LICENSE](https://img.shields.io/badge/license-AGPL%20-blue.svg)
+
 ![](https://img.shields.io/badge/build-release-brightgreen.svg)  
 ![](https://img.shields.io/badge/version-v3.0-brightgreen.svg)
 
